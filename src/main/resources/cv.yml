@@ -1,0 +1,107 @@
+candidate:
+  first-name: Andriy
+  last-name: Kandzyuba
+  e-mail: andrey.kandzuba@gmail.com
+  phone: +37258217917
+  qualification:
+                Over 10 years of experience in various areas of IT technologies software products development and delivery, system integration, system architecture |
+                Strong experience in developing and management of enterprise level software projects |
+                Practical background in driving product development in/with numerous international (US and EMEA based) companies |
+                Good practical knowledge in establishing and maintaining full software product lifecycles |
+                Good theoretical and practical knowledge in CRM, DM systems area and Web based solutions |
+                Strong technical skills (various programming languages; system administration and network security; project management techniques) |
+                Stress-resistant and committed to ultimate success type of a person |
+                Interest AI, IR, distributed computing
+
+  linkedin: https://ua.linkedin.com/in/akandzuba
+address:
+  city: Tartu
+  country: Estonia
+  nationality: Ukrainian
+jobs:
+- title: Senior Solution Architect
+  company: Playtech
+  location: Tartu, Estonia
+  startDate: 2013-07-01
+  endDate: 2015-11-01
+  summary: Oversee, analyze and design the technological strategy for system components and solutions. |
+           Lead cross components integration architecture and interoperability. |
+           Improve system performance and scalability |
+           Direct communicating with customers, product owners, analytics, |
+           R&D and QA teams in order to support their effort in developing player’s lifecycle management, |
+           including profile’s management, user’s campaigns, loyalty and bonus handling. |
+           Projects |
+           Game and player oriented CRM modules Campaign Manager, Awards and Bonus Systems |
+           Integration between internal Playtech Payment System and newly acquired Savecharge Payment System |
+           Design and development solutions and adjustments for core Wallet System, responsible for entire money |
+           transaction between components involved in game’s process. |
+           NOVA2CF migration from existing enterprise solutions to micro services based on Cloud Foundry private cluster. |
+           Solving issues relating deployment, scaling, TMU, cross component communication, cen-tralized management.  |
+           Participation in researches, hands on development, solution designs etc.
+- title: Java Architect
+  company: Go Interactive!
+  location: Kiev, Ukraine
+  startDate: 2009-04-01
+  endDate: 2013-06-01
+  summary: Design and personally develop all API for InTouch product line |
+           http://www.eatintouch.com – London’s venues search and reservation web portal |
+           http://www.coffeeintouch.com – iPhone Cafes search and reservation web portal |
+           Design and personally develop server side (API/Business Logic/Payment System Integration) of Fourcoins product |
+           https://itunes.apple.com/ua/app/fourcoins/id628075534 |
+           Technical analysis of incoming projects |
+           Communication with customers / generation of tech specifications |
+           Analysis of the general solution architecture / proposal of optimal components and third-parties libraries |
+           Team building / projects startup |
+           Communication with freelancers / third-parties development team
+- title: Co-Founder, initial CTO
+  company: SemanticForce
+  location: Kiev, Ukraine
+  startDate: 2009-04-01
+  endDate: 2015-11-01
+  summary: Lead development and delivery of http://semanticforce.net internet search/monitoring system from scratch concept to the working solution used by lot of famous brands |
+           Build and refine core backend technology |
+           Lead R&D work for search/crawling/content-extraction and database technologies |
+           Experience in NLP Lingpipe, Alchemy, OpenCalais, Basis Technologies, etc. |
+           Personally developing code for large scale application Apache Hadoop, Hbase, Mongo DB, Solr/Lucene run-ning on close to dozens of servers, and processing terabytes of data each day |
+           Constantly work on diverse and challenging new functionalities language dependent search, statistics, rank-ing, categorization, ability to access more metadata, faceted search |
+           Work with multi-disciplinary engineering team from diverse backgrounds |
+           Be able to influence business and product delivery in a flexible company structure |
+           Communicating with international customers and suppliers from US/EU countries
+- title: Project Manager/Product Director (since June 2008)
+  company: InvisibleCRM / InvisibleSolutions (since 2015)
+  location: Kiev, Ukraine / San Mateo, California
+  startDate: 2007-09-01
+  endDate: 2009-03-01
+  summary: Develop strategies and tactics to achieve sales objectives in managed products |
+           Develop actionable plans, and approve it with internal senior management |
+           Drive development process from idea to execution. All aspects of managing a sub team of including motiva-tion, strategy, direction and inspection taking part in acquiring new customers for managed products |
+           Responsible for delivery products/solutions in agreed terms and budget |
+           As a technical manager responsible for developing core system |
+           Build up technical support
+- title: Team Lead
+  company: Afortio, Ltd
+  location: Kiev, Ukraine
+  startDate: 2004-03-01
+  endDate: 2007-08-01
+  summary: Participation as developer and managing multiple projects of different thematic starting from desktop tools to | 
+           web portals and consistently played the role for software developer to project manager |
+           Managing of software development process production lifecycle |
+           Taking part in Business and System analysis |
+           Solving complex environmental issues on customer side |
+           Working on customer’s side
+- title: Senior Software Developer
+  company: OSUA, Ltd
+  location: Kiev, Ukraine
+  startDate: 2001-08-01
+  endDate: 2004-02-01
+  summary: Developing different solutions for outsourcing project. |
+           Work at Germany branch site |
+           Develop and support Plata Project Management System (PPMS).
+- title: Software Developer
+  company: Kiev Soft Factory
+  location: Kiev, Ukraine
+  startDate: 2000-08-01
+  endDate: 2001-07-01
+  summary: Developing the Web Portal for Austrian Schools in JSP/Oracle
+
+

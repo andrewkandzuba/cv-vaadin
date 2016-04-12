@@ -1,0 +1,21 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "description": "CV composite object",
+  "type": "object",
+  "properties": {
+    "candidate": {
+      "$ref" : "candidate.json",
+      "required": true
+    },
+    "address": {
+      "$ref" : "address.json",
+      "required": true
+    },
+    "jobs" : {
+      "type" : "array",
+      "items" : {
+        "$ref" : "job.json"
+      }
+    }
+  }
+}

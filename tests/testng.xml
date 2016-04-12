@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Tests suite">
+	<suite-files>
+		<suite-file path="modeltests.xml" />
+		<suite-file path="ignitetests.xml" />
+		<suite-file path="servicetests.xml" />
+		<suite-file path="lifecycletests.xml"/>
+		<suite-file path="startertests.xml"/>
+	</suite-files>
+</suite>

@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Presentation tests">
+    <test name="Presentation tests" annotations="JDK" verbose="2">
+        <classes>
+            <class name="org.ak.crossteam.doc.TestCareer"/>
+        </classes>
+    </test>
+</suite>

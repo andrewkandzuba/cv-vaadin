@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "description": "Candidate address",
+  "type": "object",
+  "javaInterfaces" : ["org.ak.crossteam.doc.model.Record"],
+  "properties": {
+    "city": { "type": "string" },
+    "country": { "type": "string" },
+    "nationality": { "type": "string" }
+  }
+}

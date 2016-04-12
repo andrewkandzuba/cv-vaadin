@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "description": "Candidate details",
+  "type": "object",
+  "javaInterfaces" : ["org.ak.crossteam.doc.model.Record"],
+  "properties": {
+    "first-name": {
+      "type": "string",
+      "required": true
+    },
+    "last-name": {
+      "type": "string",
+      "required": true
+    },
+    "e-mail": {
+      "type": "string",
+      "format": "email",
+      "required": true
+    },
+    "phone": {
+      "type": "string",
+      "format": "phone"
+    },
+    "qualification": {
+      "type": "string"
+    }
+  }
+}
